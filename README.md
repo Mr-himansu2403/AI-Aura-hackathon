@@ -18,6 +18,7 @@ Detect hallucinations, fake citations, and unverifiable claims in AI-generated c
 cd backend
 python main.py
 
-Frontend
+### Frontend
+```bash
 cd frontend
 streamlit run app.py
