@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+spacy==3.7.2
+streamlit
+requests
+pydantic
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+plotly
+tensorflow
+torch
+ 
